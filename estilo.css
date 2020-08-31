@@ -1,0 +1,28 @@
+body {
+   width: 800px;
+   margin: 0 auto;
+   background-color: #f6e6f8ad;
+   padding: 0 20px 20px 20px;
+   border: 3px solid rgb(255, 255, 255);
+
+}
+h1 {
+   margin: 0;
+   padding: 20px 0;
+   color: #f5e612;
+   font-family: verdana; 
+   text-shadow: 3px 3px 2px black; /*sombra de la letra/*/
+}
+h3 {
+   margin: 0;
+   padding: 10px 0;
+   color: salmon;
+   font-family: verdana;
+}
+h4 {
+   margin: 0;
+   padding: 10px 0;
+   color: #000000;
+   font-family: verdana;
+
+}
